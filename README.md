@@ -12,7 +12,7 @@
   Foi desenvolvido um programa cuja execução cruza pedidos e notas gerando uma listagem de pedidos
   pendentes.
   
-  ## Instalação do projeto localmente:
+  ## Instalação do programa localmente:
  
 Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em pedrodc1236@gmail.com
 
