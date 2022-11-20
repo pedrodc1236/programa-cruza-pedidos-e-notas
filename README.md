@@ -33,7 +33,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
   npm install
 ```
 
-4. Por último, dentro da pasta raiz criada anteriormente rode o comando **node src/index.js**, caso esteja tudo de acordo aparecerá no terminal a mensagem **File written successfully**, porém caso não esteja de acordo com as validações necessárias deverá ser lançada uma exceção no terminal.
+4. Por último, dentro da pasta raiz criada anteriormente rode o comando **node src/index.js**, caso esteja tudo de acordo aparecerá no terminal a mensagem **File written successfully**, porém caso haja alguma irregularidade nos arquivos presentes nas pastas Pedidos e Notas deverá cair em alguma validação e ser lançada uma exceção no terminal.
 ```javascript
   node src/index.js
 ```
