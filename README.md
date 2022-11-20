@@ -34,4 +34,8 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 ```
 
 4. Por último, dentro da pasta raiz criada anteriormente rode o comando **node src/index.js**, caso esteja tudo de acordo aparecerá no terminal a mensagem **File written successfully**, porém caso não esteja de acordo com as validações necessárias deverá ser lançada uma exceção no terminal.
+```javascript
+  node src/index.js
+```
+
 
