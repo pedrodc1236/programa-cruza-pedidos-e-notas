@@ -18,7 +18,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 
 1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
 ```javascript
-  mkdir programa
+  mkdir teste-port-louis
 ```
 
 2. Entre no diretório que acabou de criar e depois clone o projeto:
