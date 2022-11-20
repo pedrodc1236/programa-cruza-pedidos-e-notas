@@ -23,7 +23,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 
 2. Entre no diretório que acabou de criar e depois clone o projeto:
 ```javascript
-  cd projetos
+  cd teste-port-louis
   git clone git@github.com:pedrodc1236/programa-cruza-pedidos-e-notas.git
 ```
 
